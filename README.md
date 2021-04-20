@@ -6,3 +6,4 @@
 * Pull any new changes made to the repository and resolve any conflicts. 
 
 Jelena
+Patryk
